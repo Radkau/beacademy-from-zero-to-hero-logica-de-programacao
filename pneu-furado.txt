@@ -1,0 +1,16 @@
+Algoritmo para trocar pneu furado
+
+- Pegar triângulo para sinalizar a vida;
+- Verificar se possui estepe para a troca;
+- Caso não possua estepe, chamar mecânico;
+- Caso possua um estepe, pegar estepe na mala;
+- Pegar macaco e chave de rodas na mala;
+- Colocar macaco embaixo do carro e levantar o carro;
+- Retirar parafusos com a chave de rodas;
+- Retirar pneu furado;
+- Colocar estepe no lugar;
+- Colocar parafusos no estepe;
+- Abaixar macaco;
+- Retirar o macaco e guardar na mala junto com a chave de rodas e o pneu furado;
+- Entrar no carro;
+- Ligar o carro e ir até uma borracharia.
